@@ -2,9 +2,9 @@
 - 👀 I’m interested in software design
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i can speak 4 languages (excluding programming langauges)
 
 <!---
 avrilMuks/avrilMuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
